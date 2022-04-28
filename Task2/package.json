@@ -9,7 +9,7 @@
   "author": "Saad",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.6.2",
+    "async": "^2.6.4",
     "cheerio": "^1.0.0-rc.3",
     "express": "^4.16.4",
     "pug": "^2.0.3",
